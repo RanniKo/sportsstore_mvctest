@@ -1,0 +1,13 @@
+.vs/SportsStore/v15/Server/sqlite3/storage.ide-shm
+.vs/SportsStore/v15/Server/sqlite3/storage.ide
+.vs/SportsStore/v15/Server/sqlite3/db.lock
+.vs/config/applicationhost.config
+.vs/SportsStore/v15/Server/sqlite3/storage.ide-wal
+SportsStore.Domain/bin/
+SportsStore.Domain/obj/
+SportsStore.UnitTests/bin/
+SportsStore.WebUI/Web.Release.config
+SportsStore.WebUI/Web.Debug.config
+SportsStore.WebUI/bin/
+SportsStore.WebUI/obj/
+SportsStore.UnitTests/obj/
